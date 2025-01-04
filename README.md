@@ -1,3 +1,3 @@
 # demo 2
 
-strting repo from machine up to github
+starting repo from machine up to github
